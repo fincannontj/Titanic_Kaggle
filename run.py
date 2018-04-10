@@ -8,8 +8,7 @@ from titanic_model_functions import *
 import pandas as pd
 import numpy as np
 import os.path
-import matplotlib.pyplot as plt
-import seaborn as sns
+
 
 
 def importer(filename):
@@ -19,6 +18,7 @@ def importer(filename):
     return df
 
 def main():  
+    
     train = importer('train.csv')  
 
     holdout = importer('test.csv')   

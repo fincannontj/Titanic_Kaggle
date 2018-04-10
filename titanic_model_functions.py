@@ -2,6 +2,13 @@
 """
 Created on Fri Apr  6 23:24:40 2018
 
+Model functions were created during completion of dataquest
+certification courses for machine learning and kaggle.
+
+If you want a further instructions on how these functions operate check them out
+at dataquest.io
+
+
 @author: fincannontj
 """
 #preprocess data
